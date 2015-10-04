@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.alejolaya.practica4.OthersSites">
+
+    <item
+        android:id="@+id/item_acercade"
+        android:title="@string/acerca_de"
+        />
+    <item
+        android:id="@+id/item_salir"
+        android:title="@string/salir"
+        />
+</menu>

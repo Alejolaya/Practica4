@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Practica4</string>
+    <string name="title_activity_historia">HISTORY</string>
+    <string name="title_activity_hoteles">Hotels</string>
+    <string name="title_activity_bars">BARS</string>
+    <string name="title_activity_others_sites">TURIST PLACES</string>
+    <string name="title_activity_about_this">AboutThis</string>
+    <string name="acerca_de">about this</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="salir">Exit</string>
+    <!--<string name="historiatext">Barranquilla (Spanish pronunciation: ) is a city and municipality located in northern Colombia. It is the only major city in South America that was populated before its formal foundation. Barranquilla is located near the Caribbean Sea. The city is located in the Atlantico Department, of which it is the capital. Barranquilla is the largest city and port in the northern Caribbean Coast region of Colombia, with a population of 2,370,753 as of 2011 in its metropolitan area, which makes it Colombia's fourth most populous city after Bogota, Medellin and Cali.\nBarranquilla lies strategically next to the delta of the Magdalena River, 7.5 km (4.7 mi) (originally 25 km (16 mi) before rapid urban growth) from its mouth at the Caribbean Sea, serving as port for river and maritime transportation within Colombia. It is also the main industrial, shopping, educational and cultural centre of the Caribbean Region of Colombia. The city is the core of the Metropolitan Area of Barranquilla, which also includes the municipalities of Soledad, Galapa, Malambo, and Puerto Colombia.\nBarranquilla was legally established as a town on April 7, 1813, although it dated from at least 1629. It grew into an important port, serving as a haven for immigrants from Europe, especially during and immediately following World War I and World War II, when waves of additional immigrants from the Middle East and Asia arrived. Barranquilla became Colombia's principal port, and with its level of industrialization and modernity earned the city the nickname Colombia's Golden Gate (Spanish: La Puerta de Oro de Colombia). In the 1940s, Barranquilla was the second largest city in Colombia and one of the most modern cities in the Caribbean and in South America, while later, local administrations, due to widespread corruption in their ranks, brought about a decline in the standard of living. As government investment increased in other Colombian cities, Barranquilla's national position was eclipsed.\nThe city is home to one of the most important folk and cultural festivals of Colombia, the Carnival of Barranquilla, which was declared a National Cultural Heritage by the Congress of Colombia in 2001 and recognized by UNESCO in 2003.[3][4] Ernesto Cortissoz International Airport, was built in Barranquilla in 1919, becoming the first airport in South America. The city is served by domestic and international flights.</string>-->
+    <string name="historiatext">Barranquilla (Spanish pronunciation: ) is a city and municipality located in northern Colombia.</string>
+
+
+</resources>
