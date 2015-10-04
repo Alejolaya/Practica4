@@ -16,7 +16,7 @@
             />
         <ListView
             style="@style/listas"
-            android:id="@+id/MainMenu"/>
+            android:id="@+id/ListHoteles"/>
     </LinearLayout>
 
 </RelativeLayout>
