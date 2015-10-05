@@ -28,7 +28,8 @@ public class MainActivity extends AppCompatActivity {
                     new ListaMenu(R.drawable.smartbarranquilla1,"History","ver"),
                     new ListaMenu(R.drawable.smarthotel1,"Hotels","ver"),
                     new ListaMenu(R.drawable.prueba2,"Bars","ver"),
-                    new ListaMenu(R.drawable.prueba2,"Tourist places","ver")
+                    new ListaMenu(R.drawable.prueba2,"Tourist places","ver"),
+                    new ListaMenu(R.drawable.prueba2,"Demo Info","ver")
 
             };
 
@@ -56,7 +57,15 @@ public class MainActivity extends AppCompatActivity {
                         Toast.makeText(MainActivity.this, "Elemento1", Toast.LENGTH_SHORT).show();
                         break;
                     case 1:
-                        Toast.makeText(MainActivity.this, "ElementoX", Toast.LENGTH_SHORT).show();
+
+                        startActivity(new Intent(getApplicationContext(), Hoteles.class));
+                        Toast.makeText(MainActivity.this, "Hotels", Toast.LENGTH_SHORT).show();
+                        break;
+                    case 2:
+                        startActivity(new Intent(getApplicationContext(), Bars.class));
+                        break;
+                    case 3:
+                        startActivity(new Intent(getApplicationContext(), OthersSites.class));
                         break;
                 }
             }
@@ -67,6 +76,7 @@ public class MainActivity extends AppCompatActivity {
     public class Adapter extends ArrayAdapter{
         public Adapter(Context context, ListaMenu[] datosMenu) {
             super(context, R.layout.layaout_main_menu,datosMenu);
+
         }
 
         @Override
